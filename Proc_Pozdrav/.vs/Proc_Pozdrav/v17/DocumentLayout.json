@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\Proc_Pozdrav\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7146E89A-CBE4-4552-8FC4-10BFAA2E9809}|Proc_Pozdrav\\Proc_Pozdrav.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\proc_pozdrav\\proc_pozdrav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7146E89A-CBE4-4552-8FC4-10BFAA2E9809}|Proc_Pozdrav\\Proc_Pozdrav.csproj|solutionrelative:proc_pozdrav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\Proc_Pozdrav\\Proc_Pozdrav\\Program.cs",
+              "RelativeDocumentMoniker": "Proc_Pozdrav\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\Proc_Pozdrav\\Proc_Pozdrav\\Program.cs",
+              "RelativeToolTip": "Proc_Pozdrav\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:15:41.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

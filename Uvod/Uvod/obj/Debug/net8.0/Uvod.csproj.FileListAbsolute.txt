@@ -1,0 +1,14 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\bin\Debug\net8.0\Uvod.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\bin\Debug\net8.0\Uvod.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\bin\Debug\net8.0\Uvod.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\bin\Debug\net8.0\Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\bin\Debug\net8.0\Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\obj\Debug\net8.0\Uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\obj\Debug\net8.0\Uvod.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\obj\Debug\net8.0\Uvod.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\obj\Debug\net8.0\Uvod.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\obj\Debug\net8.0\Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\obj\Debug\net8.0\refint\Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\obj\Debug\net8.0\Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\obj\Debug\net8.0\Uvod.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\Uvod\Uvod\obj\Debug\net8.0\ref\Uvod.dll

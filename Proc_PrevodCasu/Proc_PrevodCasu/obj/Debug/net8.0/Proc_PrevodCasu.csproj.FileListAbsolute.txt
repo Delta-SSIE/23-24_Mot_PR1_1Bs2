@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\bin\Debug\net8.0\Proc_PrevodCasu.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\bin\Debug\net8.0\Proc_PrevodCasu.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\bin\Debug\net8.0\Proc_PrevodCasu.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\bin\Debug\net8.0\Proc_PrevodCasu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\bin\Debug\net8.0\Proc_PrevodCasu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\Proc_PrevodCasu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\Proc_PrevodCasu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\Proc_PrevodCasu.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\Proc_PrevodCasu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\Proc_PrevodCasu.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\Proc_PrevodCasu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\refint\Proc_PrevodCasu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\Proc_PrevodCasu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\Proc_PrevodCasu.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_PrevodCasu\Proc_PrevodCasu\obj\Debug\net8.0\ref\Proc_PrevodCasu.dll

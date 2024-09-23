@@ -1,0 +1,14 @@
+C:\Users\mottja\source\repos\Operatory\Operatory\bin\Debug\net8.0\Operatory.exe
+C:\Users\mottja\source\repos\Operatory\Operatory\bin\Debug\net8.0\Operatory.deps.json
+C:\Users\mottja\source\repos\Operatory\Operatory\bin\Debug\net8.0\Operatory.runtimeconfig.json
+C:\Users\mottja\source\repos\Operatory\Operatory\bin\Debug\net8.0\Operatory.dll
+C:\Users\mottja\source\repos\Operatory\Operatory\bin\Debug\net8.0\Operatory.pdb
+C:\Users\mottja\source\repos\Operatory\Operatory\obj\Debug\net8.0\Operatory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\repos\Operatory\Operatory\obj\Debug\net8.0\Operatory.AssemblyInfoInputs.cache
+C:\Users\mottja\source\repos\Operatory\Operatory\obj\Debug\net8.0\Operatory.AssemblyInfo.cs
+C:\Users\mottja\source\repos\Operatory\Operatory\obj\Debug\net8.0\Operatory.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\repos\Operatory\Operatory\obj\Debug\net8.0\Operatory.dll
+C:\Users\mottja\source\repos\Operatory\Operatory\obj\Debug\net8.0\refint\Operatory.dll
+C:\Users\mottja\source\repos\Operatory\Operatory\obj\Debug\net8.0\Operatory.pdb
+C:\Users\mottja\source\repos\Operatory\Operatory\obj\Debug\net8.0\Operatory.genruntimeconfig.cache
+C:\Users\mottja\source\repos\Operatory\Operatory\obj\Debug\net8.0\ref\Operatory.dll

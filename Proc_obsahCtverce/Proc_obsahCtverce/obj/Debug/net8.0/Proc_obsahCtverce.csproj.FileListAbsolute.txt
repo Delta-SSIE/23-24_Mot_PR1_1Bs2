@@ -1,0 +1,14 @@
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\bin\Debug\net8.0\Proc_obsahCtverce.exe
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\bin\Debug\net8.0\Proc_obsahCtverce.deps.json
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\bin\Debug\net8.0\Proc_obsahCtverce.runtimeconfig.json
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\bin\Debug\net8.0\Proc_obsahCtverce.dll
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\bin\Debug\net8.0\Proc_obsahCtverce.pdb
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\obj\Debug\net8.0\Proc_obsahCtverce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\obj\Debug\net8.0\Proc_obsahCtverce.AssemblyInfoInputs.cache
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\obj\Debug\net8.0\Proc_obsahCtverce.AssemblyInfo.cs
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\obj\Debug\net8.0\Proc_obsahCtverce.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\obj\Debug\net8.0\Proc_obsahCtverce.dll
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\obj\Debug\net8.0\refint\Proc_obsahCtverce.dll
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\obj\Debug\net8.0\Proc_obsahCtverce.pdb
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\obj\Debug\net8.0\Proc_obsahCtverce.genruntimeconfig.cache
+C:\Users\mottja\source\repos\Proc_obsahCtverce\Proc_obsahCtverce\obj\Debug\net8.0\ref\Proc_obsahCtverce.dll

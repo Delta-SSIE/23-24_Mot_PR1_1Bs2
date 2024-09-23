@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proc_Pozdrav")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab02e9c7ecc774720ac5524588c6cf70f697878a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proc_Pozdrav")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proc_Pozdrav")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

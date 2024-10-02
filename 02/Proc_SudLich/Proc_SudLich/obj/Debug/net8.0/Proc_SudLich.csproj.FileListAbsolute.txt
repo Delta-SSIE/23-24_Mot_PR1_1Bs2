@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\bin\Debug\net8.0\Proc_SudLich.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\bin\Debug\net8.0\Proc_SudLich.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\bin\Debug\net8.0\Proc_SudLich.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\bin\Debug\net8.0\Proc_SudLich.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\bin\Debug\net8.0\Proc_SudLich.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\Proc_SudLich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\Proc_SudLich.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\Proc_SudLich.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\Proc_SudLich.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\Proc_SudLich.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\Proc_SudLich.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\refint\Proc_SudLich.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\Proc_SudLich.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\Proc_SudLich.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SudLich\Proc_SudLich\obj\Debug\net8.0\ref\Proc_SudLich.dll

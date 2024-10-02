@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\bin\Debug\net8.0\Uvod_IF.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\bin\Debug\net8.0\Uvod_IF.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\bin\Debug\net8.0\Uvod_IF.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\bin\Debug\net8.0\Uvod_IF.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\bin\Debug\net8.0\Uvod_IF.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\Uvod_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\Uvod_IF.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\Uvod_IF.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\Uvod_IF.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\Uvod_IF.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\Uvod_IF.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\refint\Uvod_IF.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\Uvod_IF.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\Uvod_IF.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Uvod_IF\Uvod_IF\obj\Debug\net8.0\ref\Uvod_IF.dll

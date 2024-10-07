@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\bin\Debug\net8.0\Proc_DnyTydnu.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\bin\Debug\net8.0\Proc_DnyTydnu.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\bin\Debug\net8.0\Proc_DnyTydnu.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\bin\Debug\net8.0\Proc_DnyTydnu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\bin\Debug\net8.0\Proc_DnyTydnu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\Proc_DnyTydnu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\Proc_DnyTydnu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\Proc_DnyTydnu.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\Proc_DnyTydnu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\Proc_DnyTydnu.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\Proc_DnyTydnu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\refint\Proc_DnyTydnu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\Proc_DnyTydnu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\Proc_DnyTydnu.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DnyTydnu\Proc_DnyTydnu\obj\Debug\net8.0\ref\Proc_DnyTydnu.dll

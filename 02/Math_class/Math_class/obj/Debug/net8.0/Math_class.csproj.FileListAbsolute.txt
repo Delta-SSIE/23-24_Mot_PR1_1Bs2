@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\bin\Debug\net8.0\Math_class.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\bin\Debug\net8.0\Math_class.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\bin\Debug\net8.0\Math_class.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\bin\Debug\net8.0\Math_class.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\bin\Debug\net8.0\Math_class.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\Math_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\Math_class.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\Math_class.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\Math_class.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\Math_class.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\Math_class.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\refint\Math_class.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\Math_class.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\Math_class.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Math_class\Math_class\obj\Debug\net8.0\ref\Math_class.dll

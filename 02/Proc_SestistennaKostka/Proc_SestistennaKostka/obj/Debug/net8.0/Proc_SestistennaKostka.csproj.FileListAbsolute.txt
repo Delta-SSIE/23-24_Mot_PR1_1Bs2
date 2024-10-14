@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\bin\Debug\net8.0\Proc_SestistennaKostka.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\bin\Debug\net8.0\Proc_SestistennaKostka.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\bin\Debug\net8.0\Proc_SestistennaKostka.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\bin\Debug\net8.0\Proc_SestistennaKostka.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\bin\Debug\net8.0\Proc_SestistennaKostka.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\Proc_SestistennaKostka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\Proc_SestistennaKostka.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\Proc_SestistennaKostka.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\Proc_SestistennaKostka.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\Proc_SestistennaKostka.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\Proc_SestistennaKostka.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\refint\Proc_SestistennaKostka.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\Proc_SestistennaKostka.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\Proc_SestistennaKostka.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_SestistennaKostka\Proc_SestistennaKostka\obj\Debug\net8.0\ref\Proc_SestistennaKostka.dll

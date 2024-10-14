@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\bin\Debug\net8.0\Nahodna_cisla.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\bin\Debug\net8.0\Nahodna_cisla.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\bin\Debug\net8.0\Nahodna_cisla.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\bin\Debug\net8.0\Nahodna_cisla.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\bin\Debug\net8.0\Nahodna_cisla.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\Nahodna_cisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\Nahodna_cisla.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\Nahodna_cisla.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\Nahodna_cisla.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\Nahodna_cisla.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\Nahodna_cisla.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\refint\Nahodna_cisla.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\Nahodna_cisla.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\Nahodna_cisla.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Nahodna_cisla\Nahodna_cisla\obj\Debug\net8.0\ref\Nahodna_cisla.dll

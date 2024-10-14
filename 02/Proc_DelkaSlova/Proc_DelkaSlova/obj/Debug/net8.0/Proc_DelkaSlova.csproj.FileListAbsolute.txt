@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\bin\Debug\net8.0\Proc_DelkaSlova.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\bin\Debug\net8.0\Proc_DelkaSlova.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\bin\Debug\net8.0\Proc_DelkaSlova.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\bin\Debug\net8.0\Proc_DelkaSlova.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\bin\Debug\net8.0\Proc_DelkaSlova.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\Proc_DelkaSlova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\Proc_DelkaSlova.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\Proc_DelkaSlova.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\Proc_DelkaSlova.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\Proc_DelkaSlova.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\Proc_DelkaSlova.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\refint\Proc_DelkaSlova.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\Proc_DelkaSlova.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\Proc_DelkaSlova.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\02\Proc_DelkaSlova\Proc_DelkaSlova\obj\Debug\net8.0\ref\Proc_DelkaSlova.dll

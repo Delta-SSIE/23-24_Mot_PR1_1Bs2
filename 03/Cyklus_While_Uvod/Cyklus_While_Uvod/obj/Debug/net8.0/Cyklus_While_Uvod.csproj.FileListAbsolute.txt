@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\bin\Debug\net8.0\Cyklus_While_Uvod.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\bin\Debug\net8.0\Cyklus_While_Uvod.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\bin\Debug\net8.0\Cyklus_While_Uvod.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\bin\Debug\net8.0\Cyklus_While_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\bin\Debug\net8.0\Cyklus_While_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\Cyklus_While_Uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\Cyklus_While_Uvod.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\Cyklus_While_Uvod.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\Cyklus_While_Uvod.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\Cyklus_While_Uvod.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\Cyklus_While_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\refint\Cyklus_While_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\Cyklus_While_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\Cyklus_While_Uvod.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Cyklus_While_Uvod\Cyklus_While_Uvod\obj\Debug\net8.0\ref\Cyklus_While_Uvod.dll

@@ -1,0 +1,14 @@
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\bin\Debug\net8.0\Proc_Mala_nasobilka.exe
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\bin\Debug\net8.0\Proc_Mala_nasobilka.deps.json
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\bin\Debug\net8.0\Proc_Mala_nasobilka.runtimeconfig.json
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\bin\Debug\net8.0\Proc_Mala_nasobilka.dll
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\bin\Debug\net8.0\Proc_Mala_nasobilka.pdb
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\obj\Debug\net8.0\Proc_Mala_nasobilka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\obj\Debug\net8.0\Proc_Mala_nasobilka.AssemblyInfoInputs.cache
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\obj\Debug\net8.0\Proc_Mala_nasobilka.AssemblyInfo.cs
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\obj\Debug\net8.0\Proc_Mala_nasobilka.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\obj\Debug\net8.0\Proc_Mala_nasobilka.dll
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\obj\Debug\net8.0\refint\Proc_Mala_nasobilka.dll
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\obj\Debug\net8.0\Proc_Mala_nasobilka.pdb
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\obj\Debug\net8.0\Proc_Mala_nasobilka.genruntimeconfig.cache
+C:\Users\mottja\source\repos\Proc_Mala_nasobilka\Proc_Mala_nasobilka\obj\Debug\net8.0\ref\Proc_Mala_nasobilka.dll

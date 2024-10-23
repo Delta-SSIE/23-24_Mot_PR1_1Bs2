@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\Proc_KdyUzPadneSestka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC46EACA-4BE9-4CDD-9D49-57BFF776EBBC}|Proc_KdyUzPadneSestka\\Proc_KdyUzPadneSestka.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\proc_kdyuzpadnesestka\\proc_kdyuzpadnesestka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC46EACA-4BE9-4CDD-9D49-57BFF776EBBC}|Proc_KdyUzPadneSestka\\Proc_KdyUzPadneSestka.csproj|solutionrelative:proc_kdyuzpadnesestka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\Proc_KdyUzPadneSestka\\Proc_KdyUzPadneSestka\\Program.cs",
+              "RelativeDocumentMoniker": "Proc_KdyUzPadneSestka\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\Proc_KdyUzPadneSestka\\Proc_KdyUzPadneSestka\\Program.cs",
+              "RelativeToolTip": "Proc_KdyUzPadneSestka\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:34:51.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

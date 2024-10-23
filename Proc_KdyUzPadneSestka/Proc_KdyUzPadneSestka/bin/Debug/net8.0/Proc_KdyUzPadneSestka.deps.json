@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proc_KdyUzPadneSestka/1.0.0": {
+        "runtime": {
+          "Proc_KdyUzPadneSestka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proc_KdyUzPadneSestka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

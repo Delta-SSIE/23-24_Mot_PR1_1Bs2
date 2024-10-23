@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\bin\Debug\net8.0\Proc_KdyUzPadneSestka.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\bin\Debug\net8.0\Proc_KdyUzPadneSestka.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\bin\Debug\net8.0\Proc_KdyUzPadneSestka.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\bin\Debug\net8.0\Proc_KdyUzPadneSestka.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\bin\Debug\net8.0\Proc_KdyUzPadneSestka.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\Proc_KdyUzPadneSestka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\Proc_KdyUzPadneSestka.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\Proc_KdyUzPadneSestka.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\Proc_KdyUzPadneSestka.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\Proc_KdyUzPadneSestka.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\Proc_KdyUzPadneSestka.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\refint\Proc_KdyUzPadneSestka.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\Proc_KdyUzPadneSestka.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\Proc_KdyUzPadneSestka.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka\obj\Debug\net8.0\ref\Proc_KdyUzPadneSestka.dll

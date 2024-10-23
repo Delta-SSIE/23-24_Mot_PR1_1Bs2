@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proc_KdyUzPadneSestka", "Proc_KdyUzPadneSestka\Proc_KdyUzPadneSestka.csproj", "{EC46EACA-4BE9-4CDD-9D49-57BFF776EBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC46EACA-4BE9-4CDD-9D49-57BFF776EBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC46EACA-4BE9-4CDD-9D49-57BFF776EBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC46EACA-4BE9-4CDD-9D49-57BFF776EBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC46EACA-4BE9-4CDD-9D49-57BFF776EBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99BA1414-57B4-48BC-9EDD-E1972CAEB6EA}
+	EndGlobalSection
+EndGlobal

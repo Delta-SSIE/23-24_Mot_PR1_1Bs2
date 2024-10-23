@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\bin\Debug\net8.0\TryParse_uvod.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\bin\Debug\net8.0\TryParse_uvod.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\bin\Debug\net8.0\TryParse_uvod.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\bin\Debug\net8.0\TryParse_uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\bin\Debug\net8.0\TryParse_uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\TryParse_uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\TryParse_uvod.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\TryParse_uvod.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\TryParse_uvod.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\TryParse_uvod.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\TryParse_uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\refint\TryParse_uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\TryParse_uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\TryParse_uvod.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\TryParse_uvod\TryParse_uvod\obj\Debug\net8.0\ref\TryParse_uvod.dll

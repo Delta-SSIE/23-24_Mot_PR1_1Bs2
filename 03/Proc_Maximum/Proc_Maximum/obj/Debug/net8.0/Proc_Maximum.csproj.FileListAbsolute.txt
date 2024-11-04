@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\bin\Debug\net8.0\Proc_Maximum.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\bin\Debug\net8.0\Proc_Maximum.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\bin\Debug\net8.0\Proc_Maximum.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\bin\Debug\net8.0\Proc_Maximum.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\bin\Debug\net8.0\Proc_Maximum.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\Proc_Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\Proc_Maximum.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\Proc_Maximum.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\Proc_Maximum.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\Proc_Maximum.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\Proc_Maximum.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\refint\Proc_Maximum.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\Proc_Maximum.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\Proc_Maximum.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\03\Proc_Maximum\Proc_Maximum\obj\Debug\net8.0\ref\Proc_Maximum.dll

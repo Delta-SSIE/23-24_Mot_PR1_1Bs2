@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\bin\Debug\net8.0\Proc_Pikola.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\bin\Debug\net8.0\Proc_Pikola.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\bin\Debug\net8.0\Proc_Pikola.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\bin\Debug\net8.0\Proc_Pikola.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\bin\Debug\net8.0\Proc_Pikola.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\Proc_Pikola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\Proc_Pikola.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\Proc_Pikola.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\Proc_Pikola.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\Proc_Pikola.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\Proc_Pikola.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\refint\Proc_Pikola.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\Proc_Pikola.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\Proc_Pikola.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Pikola\Proc_Pikola\obj\Debug\net8.0\ref\Proc_Pikola.dll

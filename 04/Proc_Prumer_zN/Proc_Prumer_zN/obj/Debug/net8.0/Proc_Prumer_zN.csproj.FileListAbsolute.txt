@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\bin\Debug\net8.0\Proc_Prumer_zN.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\bin\Debug\net8.0\Proc_Prumer_zN.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\bin\Debug\net8.0\Proc_Prumer_zN.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\bin\Debug\net8.0\Proc_Prumer_zN.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\bin\Debug\net8.0\Proc_Prumer_zN.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\Proc_Prumer_zN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\Proc_Prumer_zN.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\Proc_Prumer_zN.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\Proc_Prumer_zN.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\Proc_Prumer_zN.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\Proc_Prumer_zN.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\refint\Proc_Prumer_zN.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\Proc_Prumer_zN.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\Proc_Prumer_zN.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Prumer_zN\Proc_Prumer_zN\obj\Debug\net8.0\ref\Proc_Prumer_zN.dll

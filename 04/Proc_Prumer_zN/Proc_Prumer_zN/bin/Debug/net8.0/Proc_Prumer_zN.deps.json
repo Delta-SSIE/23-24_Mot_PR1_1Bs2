@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proc_Prumer_zN/1.0.0": {
+        "runtime": {
+          "Proc_Prumer_zN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proc_Prumer_zN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

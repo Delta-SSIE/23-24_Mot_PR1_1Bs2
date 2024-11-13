@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\bin\Debug\net8.0\CyklusFor_Uvod.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\bin\Debug\net8.0\CyklusFor_Uvod.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\bin\Debug\net8.0\CyklusFor_Uvod.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\bin\Debug\net8.0\CyklusFor_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\bin\Debug\net8.0\CyklusFor_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\CyklusFor_Uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\CyklusFor_Uvod.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\CyklusFor_Uvod.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\CyklusFor_Uvod.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\CyklusFor_Uvod.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\CyklusFor_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\refint\CyklusFor_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\CyklusFor_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\CyklusFor_Uvod.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\CyklusFor_Uvod\CyklusFor_Uvod\obj\Debug\net8.0\ref\CyklusFor_Uvod.dll

@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\bin\Debug\net8.0\Proc_Faktorial.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\bin\Debug\net8.0\Proc_Faktorial.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\bin\Debug\net8.0\Proc_Faktorial.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\bin\Debug\net8.0\Proc_Faktorial.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\bin\Debug\net8.0\Proc_Faktorial.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\Proc_Faktorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\Proc_Faktorial.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\Proc_Faktorial.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\Proc_Faktorial.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\Proc_Faktorial.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\Proc_Faktorial.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\refint\Proc_Faktorial.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\Proc_Faktorial.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\Proc_Faktorial.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Faktorial\Proc_Faktorial\obj\Debug\net8.0\ref\Proc_Faktorial.dll

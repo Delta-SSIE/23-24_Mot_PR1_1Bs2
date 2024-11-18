@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\04\\Proc_PoSchodoch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D965007B-C432-4AA5-81E5-1F89CA590E21}|Proc_PoSchodoch\\Proc_PoSchodoch.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\04\\proc_poschodoch\\proc_poschodoch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D965007B-C432-4AA5-81E5-1F89CA590E21}|Proc_PoSchodoch\\Proc_PoSchodoch.csproj|solutionrelative:proc_poschodoch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\04\\Proc_PoSchodoch\\Proc_PoSchodoch\\Program.cs",
+              "RelativeDocumentMoniker": "Proc_PoSchodoch\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\04\\Proc_PoSchodoch\\Proc_PoSchodoch\\Program.cs",
+              "RelativeToolTip": "Proc_PoSchodoch\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:32:57.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

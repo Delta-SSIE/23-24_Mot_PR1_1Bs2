@@ -1,9 +1,24 @@
-﻿namespace Proc_PoSchodoch;
-
-class Program
+﻿namespace Proc_PoSchodoch
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            int patra = 0;
+            Console.WriteLine("Kolik chceš pater?");
+            while (!int.TryParse(Console.ReadLine(),out patra))
+            {
+                Console.WriteLine("Čislo!");
+            }
+
+            for (int i = 0; i < patra; i++)
+            {
+                for (int j = 0; j <= i; j++)
+                {
+                    Console.Write("#");
+                }
+                Console.WriteLine();
+            }
+        }
     }
 }

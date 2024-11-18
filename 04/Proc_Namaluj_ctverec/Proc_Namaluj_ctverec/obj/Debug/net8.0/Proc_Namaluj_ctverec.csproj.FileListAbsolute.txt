@@ -1,0 +1,14 @@
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\bin\Debug\net8.0\Proc_Namaluj_ctverec.exe
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\bin\Debug\net8.0\Proc_Namaluj_ctverec.deps.json
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\bin\Debug\net8.0\Proc_Namaluj_ctverec.runtimeconfig.json
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\bin\Debug\net8.0\Proc_Namaluj_ctverec.dll
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\bin\Debug\net8.0\Proc_Namaluj_ctverec.pdb
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\obj\Debug\net8.0\Proc_Namaluj_ctverec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\obj\Debug\net8.0\Proc_Namaluj_ctverec.AssemblyInfoInputs.cache
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\obj\Debug\net8.0\Proc_Namaluj_ctverec.AssemblyInfo.cs
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\obj\Debug\net8.0\Proc_Namaluj_ctverec.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\obj\Debug\net8.0\Proc_Namaluj_ctverec.dll
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\obj\Debug\net8.0\refint\Proc_Namaluj_ctverec.dll
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\obj\Debug\net8.0\Proc_Namaluj_ctverec.pdb
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\obj\Debug\net8.0\Proc_Namaluj_ctverec.genruntimeconfig.cache
+C:\Users\mottja\source\repos\Proc_Namaluj_ctverec\Proc_Namaluj_ctverec\obj\Debug\net8.0\ref\Proc_Namaluj_ctverec.dll

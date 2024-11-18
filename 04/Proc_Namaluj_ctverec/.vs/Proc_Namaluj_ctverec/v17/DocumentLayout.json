@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\repos\\Proc_Namaluj_ctverec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4413DBF8-9571-4EB0-AAF1-1A4F13E000F4}|Proc_Namaluj_ctverec\\Proc_Namaluj_ctverec.csproj|c:\\users\\mottja\\source\\repos\\proc_namaluj_ctverec\\proc_namaluj_ctverec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4413DBF8-9571-4EB0-AAF1-1A4F13E000F4}|Proc_Namaluj_ctverec\\Proc_Namaluj_ctverec.csproj|solutionrelative:proc_namaluj_ctverec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\repos\\Proc_Namaluj_ctverec\\Proc_Namaluj_ctverec\\Program.cs",
+              "RelativeDocumentMoniker": "Proc_Namaluj_ctverec\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\repos\\Proc_Namaluj_ctverec\\Proc_Namaluj_ctverec\\Program.cs",
+              "RelativeToolTip": "Proc_Namaluj_ctverec\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:18:58.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

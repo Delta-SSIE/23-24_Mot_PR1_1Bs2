@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\bin\Debug\net8.0\Proc_Sifr_Basic.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\bin\Debug\net8.0\Proc_Sifr_Basic.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\bin\Debug\net8.0\Proc_Sifr_Basic.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\bin\Debug\net8.0\Proc_Sifr_Basic.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\bin\Debug\net8.0\Proc_Sifr_Basic.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\Proc_Sifr_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\Proc_Sifr_Basic.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\Proc_Sifr_Basic.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\Proc_Sifr_Basic.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\Proc_Sifr_Basic.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\Proc_Sifr_Basic.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\refint\Proc_Sifr_Basic.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\Proc_Sifr_Basic.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\Proc_Sifr_Basic.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Proc_Sifr_Basic\Proc_Sifr_Basic\obj\Debug\net8.0\ref\Proc_Sifr_Basic.dll

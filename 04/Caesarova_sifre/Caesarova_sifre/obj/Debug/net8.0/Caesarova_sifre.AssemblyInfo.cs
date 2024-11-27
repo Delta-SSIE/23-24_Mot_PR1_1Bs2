@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Caesarova_sifre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+538b6af04e2b8885dbeceb9be6d15108e5d8411c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2328e0c344abaabdb3c4ce247493c136afea67b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Caesarova_sifre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Caesarova_sifre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

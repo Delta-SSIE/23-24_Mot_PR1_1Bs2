@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\bin\Debug\net8.0\Caesarova_sifre.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\bin\Debug\net8.0\Caesarova_sifre.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\bin\Debug\net8.0\Caesarova_sifre.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\bin\Debug\net8.0\Caesarova_sifre.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\bin\Debug\net8.0\Caesarova_sifre.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\Caesarova_sifre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\Caesarova_sifre.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\Caesarova_sifre.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\Caesarova_sifre.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\Caesarova_sifre.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\Caesarova_sifre.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\refint\Caesarova_sifre.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\Caesarova_sifre.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\Caesarova_sifre.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\04\Caesarova_sifre\Caesarova_sifre\obj\Debug\net8.0\ref\Caesarova_sifre.dll

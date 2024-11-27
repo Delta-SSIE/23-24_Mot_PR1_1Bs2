@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\04\\Caesarova_sifre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0840F86-737D-4738-A46C-DBE31FA30A72}|Caesarova_sifre\\Caesarova_sifre.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\04\\caesarova_sifre\\caesarova_sifre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0840F86-737D-4738-A46C-DBE31FA30A72}|Caesarova_sifre\\Caesarova_sifre.csproj|solutionrelative:caesarova_sifre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\04\\Caesarova_sifre\\Caesarova_sifre\\Program.cs",
+              "RelativeDocumentMoniker": "Caesarova_sifre\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\04\\Caesarova_sifre\\Caesarova_sifre\\Program.cs",
+              "RelativeToolTip": "Caesarova_sifre\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:57:05.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

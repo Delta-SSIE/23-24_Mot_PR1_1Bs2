@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\bin\Debug\net8.0\Proc_PodminenySoucet.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\bin\Debug\net8.0\Proc_PodminenySoucet.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\bin\Debug\net8.0\Proc_PodminenySoucet.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\bin\Debug\net8.0\Proc_PodminenySoucet.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\bin\Debug\net8.0\Proc_PodminenySoucet.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\Proc_PodminenySoucet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\Proc_PodminenySoucet.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\Proc_PodminenySoucet.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\Proc_PodminenySoucet.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\Proc_PodminenySoucet.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\Proc_PodminenySoucet.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\refint\Proc_PodminenySoucet.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\Proc_PodminenySoucet.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\Proc_PodminenySoucet.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_PodminenySoucet\Proc_PodminenySoucet\obj\Debug\net8.0\ref\Proc_PodminenySoucet.dll

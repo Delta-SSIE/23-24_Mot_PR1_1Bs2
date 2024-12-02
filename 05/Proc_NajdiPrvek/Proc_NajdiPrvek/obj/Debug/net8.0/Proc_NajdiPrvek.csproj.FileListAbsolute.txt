@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\bin\Debug\net8.0\Proc_NajdiPrvek.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\bin\Debug\net8.0\Proc_NajdiPrvek.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\bin\Debug\net8.0\Proc_NajdiPrvek.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\bin\Debug\net8.0\Proc_NajdiPrvek.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\bin\Debug\net8.0\Proc_NajdiPrvek.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\Proc_NajdiPrvek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\Proc_NajdiPrvek.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\Proc_NajdiPrvek.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\Proc_NajdiPrvek.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\Proc_NajdiPrvek.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\Proc_NajdiPrvek.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\refint\Proc_NajdiPrvek.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\Proc_NajdiPrvek.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\Proc_NajdiPrvek.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_NajdiPrvek\Proc_NajdiPrvek\obj\Debug\net8.0\ref\Proc_NajdiPrvek.dll

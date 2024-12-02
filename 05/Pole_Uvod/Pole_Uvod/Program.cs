@@ -25,7 +25,33 @@
 
             //Deklarace pole s pevně určenou délkou bez hodnot
             int[] pole_cisel2 = new int[8]; //pole pole_cisel2 má délku 8 (tzn. indexy 0 až 7) nyní prázdných hodnot
-            
+
+            //for cyklus pro výpis pole
+            for (int i = 0; i < cisla.Length; i++)
+            {
+                Console.Write(cisla[i] + " ");
+            }
+            Console.WriteLine();
+
+            for (int i = 0; i < jmena.Length; i++)
+            {
+                Console.Write(jmena[i] + " ");
+            }
+            Console.WriteLine();
+
+            //průchod pomocí foreach
+            foreach (int cislo in cisla)
+                //V rámci průchodu foreache se bude do proměnné čislo načítat vždy hodnota v kolekci čísla 
+            {
+                Console.Write(cislo + " ");
+            }
+            Console.WriteLine();
+
+            foreach (string jmeno in jmena)
+            {
+                Console.Write(jmeno + " ");
+            }
+            Console.WriteLine();
 
         }
     }

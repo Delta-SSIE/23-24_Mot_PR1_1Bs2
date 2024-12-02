@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pole_Uvod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a94a6efe527ca0af01bc05927189b73f87e40d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a657dafc47dd9eade98ece1caf212486cf00488f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pole_Uvod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pole_Uvod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

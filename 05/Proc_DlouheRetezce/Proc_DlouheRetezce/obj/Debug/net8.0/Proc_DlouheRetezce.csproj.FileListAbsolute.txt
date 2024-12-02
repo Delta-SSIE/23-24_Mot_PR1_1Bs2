@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\bin\Debug\net8.0\Proc_DlouheRetezce.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\bin\Debug\net8.0\Proc_DlouheRetezce.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\bin\Debug\net8.0\Proc_DlouheRetezce.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\bin\Debug\net8.0\Proc_DlouheRetezce.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\bin\Debug\net8.0\Proc_DlouheRetezce.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\Proc_DlouheRetezce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\Proc_DlouheRetezce.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\Proc_DlouheRetezce.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\Proc_DlouheRetezce.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\Proc_DlouheRetezce.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\Proc_DlouheRetezce.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\refint\Proc_DlouheRetezce.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\Proc_DlouheRetezce.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\Proc_DlouheRetezce.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_DlouheRetezce\Proc_DlouheRetezce\obj\Debug\net8.0\ref\Proc_DlouheRetezce.dll

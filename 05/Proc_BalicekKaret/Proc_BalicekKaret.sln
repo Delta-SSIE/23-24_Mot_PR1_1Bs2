@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proc_BalicekKaret", "Proc_BalicekKaret\Proc_BalicekKaret.csproj", "{1FBBE141-2AC8-4BF5-B4EF-08070B3E120D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBBE141-2AC8-4BF5-B4EF-08070B3E120D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBBE141-2AC8-4BF5-B4EF-08070B3E120D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBBE141-2AC8-4BF5-B4EF-08070B3E120D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBBE141-2AC8-4BF5-B4EF-08070B3E120D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {157FFC05-CA9B-4A00-9123-729680FD53E4}
+	EndGlobalSection
+EndGlobal

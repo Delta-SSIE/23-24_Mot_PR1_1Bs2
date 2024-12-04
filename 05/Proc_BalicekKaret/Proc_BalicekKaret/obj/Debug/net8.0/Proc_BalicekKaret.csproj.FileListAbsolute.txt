@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\bin\Debug\net8.0\Proc_BalicekKaret.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\bin\Debug\net8.0\Proc_BalicekKaret.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\bin\Debug\net8.0\Proc_BalicekKaret.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\bin\Debug\net8.0\Proc_BalicekKaret.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\bin\Debug\net8.0\Proc_BalicekKaret.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\Proc_BalicekKaret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\Proc_BalicekKaret.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\Proc_BalicekKaret.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\Proc_BalicekKaret.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\Proc_BalicekKaret.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\Proc_BalicekKaret.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\refint\Proc_BalicekKaret.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\Proc_BalicekKaret.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\Proc_BalicekKaret.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Proc_BalicekKaret\Proc_BalicekKaret\obj\Debug\net8.0\ref\Proc_BalicekKaret.dll

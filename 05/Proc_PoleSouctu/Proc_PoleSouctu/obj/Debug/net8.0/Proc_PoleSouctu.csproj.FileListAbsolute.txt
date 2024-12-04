@@ -1,0 +1,14 @@
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\bin\Debug\net8.0\Proc_PoleSouctu.exe
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\bin\Debug\net8.0\Proc_PoleSouctu.deps.json
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\bin\Debug\net8.0\Proc_PoleSouctu.runtimeconfig.json
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\bin\Debug\net8.0\Proc_PoleSouctu.dll
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\bin\Debug\net8.0\Proc_PoleSouctu.pdb
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\obj\Debug\net8.0\Proc_PoleSouctu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\obj\Debug\net8.0\Proc_PoleSouctu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\obj\Debug\net8.0\Proc_PoleSouctu.AssemblyInfo.cs
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\obj\Debug\net8.0\Proc_PoleSouctu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\obj\Debug\net8.0\Proc_PoleSouctu.dll
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\obj\Debug\net8.0\refint\Proc_PoleSouctu.dll
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\obj\Debug\net8.0\Proc_PoleSouctu.pdb
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\obj\Debug\net8.0\Proc_PoleSouctu.genruntimeconfig.cache
+C:\Users\mottja\source\repos\Proc_PoleSouctu\Proc_PoleSouctu\obj\Debug\net8.0\ref\Proc_PoleSouctu.dll

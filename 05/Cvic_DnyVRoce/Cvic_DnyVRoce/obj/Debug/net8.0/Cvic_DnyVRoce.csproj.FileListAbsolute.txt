@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\bin\Debug\net8.0\Cvic_DnyVRoce.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\bin\Debug\net8.0\Cvic_DnyVRoce.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\bin\Debug\net8.0\Cvic_DnyVRoce.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\bin\Debug\net8.0\Cvic_DnyVRoce.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\bin\Debug\net8.0\Cvic_DnyVRoce.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\Cvic_DnyVRoce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\Cvic_DnyVRoce.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\Cvic_DnyVRoce.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\Cvic_DnyVRoce.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\Cvic_DnyVRoce.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\Cvic_DnyVRoce.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\refint\Cvic_DnyVRoce.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\Cvic_DnyVRoce.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\Cvic_DnyVRoce.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Cvic_DnyVRoce\Cvic_DnyVRoce\obj\Debug\net8.0\ref\Cvic_DnyVRoce.dll

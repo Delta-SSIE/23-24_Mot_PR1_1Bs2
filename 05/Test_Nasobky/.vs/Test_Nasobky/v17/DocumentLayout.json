@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\05\\Test_Nasobky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{835546F2-45E7-4FD4-84BC-A3935E8B8D9B}|Test_Nasobky\\Test_Nasobky.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\05\\test_nasobky\\test_nasobky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835546F2-45E7-4FD4-84BC-A3935E8B8D9B}|Test_Nasobky\\Test_Nasobky.csproj|solutionrelative:test_nasobky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\05\\Test_Nasobky\\Test_Nasobky\\Program.cs",
+              "RelativeDocumentMoniker": "Test_Nasobky\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\05\\Test_Nasobky\\Test_Nasobky\\Program.cs",
+              "RelativeToolTip": "Test_Nasobky\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:06:32.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

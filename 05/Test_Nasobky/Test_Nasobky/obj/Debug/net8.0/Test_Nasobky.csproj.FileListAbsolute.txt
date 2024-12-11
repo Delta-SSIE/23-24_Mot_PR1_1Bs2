@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\bin\Debug\net8.0\Test_Nasobky.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\bin\Debug\net8.0\Test_Nasobky.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\bin\Debug\net8.0\Test_Nasobky.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\bin\Debug\net8.0\Test_Nasobky.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\bin\Debug\net8.0\Test_Nasobky.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\Test_Nasobky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\Test_Nasobky.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\Test_Nasobky.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\Test_Nasobky.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\Test_Nasobky.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\Test_Nasobky.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\refint\Test_Nasobky.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\Test_Nasobky.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\Test_Nasobky.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\05\Test_Nasobky\Test_Nasobky\obj\Debug\net8.0\ref\Test_Nasobky.dll

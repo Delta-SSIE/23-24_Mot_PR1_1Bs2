@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\bin\Debug\net8.0\Metody_Uvod.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\bin\Debug\net8.0\Metody_Uvod.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\bin\Debug\net8.0\Metody_Uvod.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\bin\Debug\net8.0\Metody_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\bin\Debug\net8.0\Metody_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\Metody_Uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\Metody_Uvod.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\Metody_Uvod.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\Metody_Uvod.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\Metody_Uvod.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\Metody_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\refint\Metody_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\Metody_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\Metody_Uvod.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Metody_Uvod\Metody_Uvod\obj\Debug\net8.0\ref\Metody_Uvod.dll

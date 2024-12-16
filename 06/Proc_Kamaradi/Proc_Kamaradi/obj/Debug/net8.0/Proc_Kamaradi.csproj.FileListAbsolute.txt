@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\bin\Debug\net8.0\Proc_Kamaradi.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\bin\Debug\net8.0\Proc_Kamaradi.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\bin\Debug\net8.0\Proc_Kamaradi.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\bin\Debug\net8.0\Proc_Kamaradi.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\bin\Debug\net8.0\Proc_Kamaradi.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\Proc_Kamaradi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\Proc_Kamaradi.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\Proc_Kamaradi.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\Proc_Kamaradi.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\Proc_Kamaradi.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\Proc_Kamaradi.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\refint\Proc_Kamaradi.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\Proc_Kamaradi.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\Proc_Kamaradi.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_Kamaradi\Proc_Kamaradi\obj\Debug\net8.0\ref\Proc_Kamaradi.dll

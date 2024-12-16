@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\06\\Proc_DelsiSlovo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F527E00-2B63-4184-9B34-5C2695CCBC9C}|Proc_DelsiSlovo\\Proc_DelsiSlovo.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\06\\proc_delsislovo\\proc_delsislovo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F527E00-2B63-4184-9B34-5C2695CCBC9C}|Proc_DelsiSlovo\\Proc_DelsiSlovo.csproj|solutionrelative:proc_delsislovo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\06\\Proc_DelsiSlovo\\Proc_DelsiSlovo\\Program.cs",
+              "RelativeDocumentMoniker": "Proc_DelsiSlovo\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\06\\Proc_DelsiSlovo\\Proc_DelsiSlovo\\Program.cs",
+              "RelativeToolTip": "Proc_DelsiSlovo\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:04:12.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\bin\Debug\net8.0\Proc_DelsiSlovo.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\bin\Debug\net8.0\Proc_DelsiSlovo.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\bin\Debug\net8.0\Proc_DelsiSlovo.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\bin\Debug\net8.0\Proc_DelsiSlovo.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\bin\Debug\net8.0\Proc_DelsiSlovo.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\Proc_DelsiSlovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\Proc_DelsiSlovo.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\Proc_DelsiSlovo.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\Proc_DelsiSlovo.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\Proc_DelsiSlovo.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\Proc_DelsiSlovo.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\refint\Proc_DelsiSlovo.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\Proc_DelsiSlovo.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\Proc_DelsiSlovo.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_DelsiSlovo\Proc_DelsiSlovo\obj\Debug\net8.0\ref\Proc_DelsiSlovo.dll

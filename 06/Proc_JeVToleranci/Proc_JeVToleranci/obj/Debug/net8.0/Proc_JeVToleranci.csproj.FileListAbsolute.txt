@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\bin\Debug\net8.0\Proc_JeVToleranci.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\bin\Debug\net8.0\Proc_JeVToleranci.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\bin\Debug\net8.0\Proc_JeVToleranci.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\bin\Debug\net8.0\Proc_JeVToleranci.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\bin\Debug\net8.0\Proc_JeVToleranci.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\Proc_JeVToleranci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\Proc_JeVToleranci.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\Proc_JeVToleranci.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\Proc_JeVToleranci.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\Proc_JeVToleranci.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\Proc_JeVToleranci.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\refint\Proc_JeVToleranci.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\Proc_JeVToleranci.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\Proc_JeVToleranci.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_JeVToleranci\Proc_JeVToleranci\obj\Debug\net8.0\ref\Proc_JeVToleranci.dll

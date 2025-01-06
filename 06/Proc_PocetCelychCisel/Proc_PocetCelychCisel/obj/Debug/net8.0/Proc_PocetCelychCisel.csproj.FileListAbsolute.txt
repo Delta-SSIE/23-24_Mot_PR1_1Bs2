@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\bin\Debug\net8.0\Proc_PocetCelychCisel.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\bin\Debug\net8.0\Proc_PocetCelychCisel.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\bin\Debug\net8.0\Proc_PocetCelychCisel.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\bin\Debug\net8.0\Proc_PocetCelychCisel.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\bin\Debug\net8.0\Proc_PocetCelychCisel.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\Proc_PocetCelychCisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\Proc_PocetCelychCisel.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\Proc_PocetCelychCisel.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\Proc_PocetCelychCisel.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\Proc_PocetCelychCisel.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\Proc_PocetCelychCisel.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\refint\Proc_PocetCelychCisel.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\Proc_PocetCelychCisel.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\Proc_PocetCelychCisel.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_PocetCelychCisel\Proc_PocetCelychCisel\obj\Debug\net8.0\ref\Proc_PocetCelychCisel.dll

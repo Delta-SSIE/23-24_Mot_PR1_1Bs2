@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\bin\Debug\net8.0\Radici_algoritmy.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\bin\Debug\net8.0\Radici_algoritmy.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\bin\Debug\net8.0\Radici_algoritmy.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\bin\Debug\net8.0\Radici_algoritmy.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\bin\Debug\net8.0\Radici_algoritmy.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\Radici_algoritmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\Radici_algoritmy.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\Radici_algoritmy.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\Radici_algoritmy.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\Radici_algoritmy.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\Radici_algoritmy.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\refint\Radici_algoritmy.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\Radici_algoritmy.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\Radici_algoritmy.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Radici_algoritmy\Radici_algoritmy\obj\Debug\net8.0\ref\Radici_algoritmy.dll

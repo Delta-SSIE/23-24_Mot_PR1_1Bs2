@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\bin\Debug\net8.0\Proc_KolikatyJsem.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\bin\Debug\net8.0\Proc_KolikatyJsem.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\bin\Debug\net8.0\Proc_KolikatyJsem.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\bin\Debug\net8.0\Proc_KolikatyJsem.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\bin\Debug\net8.0\Proc_KolikatyJsem.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\Proc_KolikatyJsem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\Proc_KolikatyJsem.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\Proc_KolikatyJsem.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\Proc_KolikatyJsem.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\Proc_KolikatyJsem.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\Proc_KolikatyJsem.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\refint\Proc_KolikatyJsem.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\Proc_KolikatyJsem.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\Proc_KolikatyJsem.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikatyJsem\Proc_KolikatyJsem\obj\Debug\net8.0\ref\Proc_KolikatyJsem.dll

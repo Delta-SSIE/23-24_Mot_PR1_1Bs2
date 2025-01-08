@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\bin\Debug\net8.0\Proc_KolikKbeliku.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\bin\Debug\net8.0\Proc_KolikKbeliku.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\bin\Debug\net8.0\Proc_KolikKbeliku.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\bin\Debug\net8.0\Proc_KolikKbeliku.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\bin\Debug\net8.0\Proc_KolikKbeliku.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\Proc_KolikKbeliku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\Proc_KolikKbeliku.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\Proc_KolikKbeliku.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\Proc_KolikKbeliku.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\Proc_KolikKbeliku.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\Proc_KolikKbeliku.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\refint\Proc_KolikKbeliku.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\Proc_KolikKbeliku.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\Proc_KolikKbeliku.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\06\Proc_KolikKbeliku\Proc_KolikKbeliku\obj\Debug\net8.0\ref\Proc_KolikKbeliku.dll

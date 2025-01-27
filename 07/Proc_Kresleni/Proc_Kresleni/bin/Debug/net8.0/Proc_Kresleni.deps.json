@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proc_Kresleni/1.0.0": {
+        "runtime": {
+          "Proc_Kresleni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proc_Kresleni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

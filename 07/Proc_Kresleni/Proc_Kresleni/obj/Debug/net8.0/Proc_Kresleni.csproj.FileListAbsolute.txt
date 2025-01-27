@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\bin\Debug\net8.0\Proc_Kresleni.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\bin\Debug\net8.0\Proc_Kresleni.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\bin\Debug\net8.0\Proc_Kresleni.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\bin\Debug\net8.0\Proc_Kresleni.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\bin\Debug\net8.0\Proc_Kresleni.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\Proc_Kresleni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\Proc_Kresleni.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\Proc_Kresleni.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\Proc_Kresleni.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\Proc_Kresleni.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\Proc_Kresleni.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\refint\Proc_Kresleni.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\Proc_Kresleni.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\Proc_Kresleni.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Kresleni\Proc_Kresleni\obj\Debug\net8.0\ref\Proc_Kresleni.dll

@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\bin\Debug\net8.0\Proc_UcetnickePocty.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\bin\Debug\net8.0\Proc_UcetnickePocty.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\bin\Debug\net8.0\Proc_UcetnickePocty.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\bin\Debug\net8.0\Proc_UcetnickePocty.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\bin\Debug\net8.0\Proc_UcetnickePocty.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\Proc_UcetnickePocty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\Proc_UcetnickePocty.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\Proc_UcetnickePocty.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\Proc_UcetnickePocty.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\Proc_UcetnickePocty.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\Proc_UcetnickePocty.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\refint\Proc_UcetnickePocty.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\Proc_UcetnickePocty.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\Proc_UcetnickePocty.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_UcetnickePocty\Proc_UcetnickePocty\obj\Debug\net8.0\ref\Proc_UcetnickePocty.dll

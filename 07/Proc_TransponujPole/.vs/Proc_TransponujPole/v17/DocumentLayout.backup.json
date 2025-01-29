@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\07\\Proc_TransponujPole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5531D86E-6BD2-4AB1-B34E-C0F0B5BE8DDD}|Proc_TransponujPole\\Proc_TransponujPole.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\07\\proc_transponujpole\\proc_transponujpole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5531D86E-6BD2-4AB1-B34E-C0F0B5BE8DDD}|Proc_TransponujPole\\Proc_TransponujPole.csproj|solutionrelative:proc_transponujpole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\07\\Proc_TransponujPole\\Proc_TransponujPole\\Program.cs",
+              "RelativeDocumentMoniker": "Proc_TransponujPole\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\07\\Proc_TransponujPole\\Proc_TransponujPole\\Program.cs",
+              "RelativeToolTip": "Proc_TransponujPole\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwCsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:55:22.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

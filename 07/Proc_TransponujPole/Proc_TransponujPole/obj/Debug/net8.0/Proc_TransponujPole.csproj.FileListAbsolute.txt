@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\bin\Debug\net8.0\Proc_TransponujPole.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\bin\Debug\net8.0\Proc_TransponujPole.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\bin\Debug\net8.0\Proc_TransponujPole.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\bin\Debug\net8.0\Proc_TransponujPole.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\bin\Debug\net8.0\Proc_TransponujPole.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\Proc_TransponujPole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\Proc_TransponujPole.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\Proc_TransponujPole.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\Proc_TransponujPole.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\Proc_TransponujPole.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\Proc_TransponujPole.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\refint\Proc_TransponujPole.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\Proc_TransponujPole.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\Proc_TransponujPole.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_TransponujPole\Proc_TransponujPole\obj\Debug\net8.0\ref\Proc_TransponujPole.dll

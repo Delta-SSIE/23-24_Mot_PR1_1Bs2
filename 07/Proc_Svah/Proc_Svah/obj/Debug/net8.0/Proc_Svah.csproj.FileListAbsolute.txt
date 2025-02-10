@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\bin\Debug\net8.0\Proc_Svah.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\bin\Debug\net8.0\Proc_Svah.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\bin\Debug\net8.0\Proc_Svah.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\bin\Debug\net8.0\Proc_Svah.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\bin\Debug\net8.0\Proc_Svah.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\Proc_Svah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\Proc_Svah.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\Proc_Svah.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\Proc_Svah.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\Proc_Svah.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\Proc_Svah.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\refint\Proc_Svah.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\Proc_Svah.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\Proc_Svah.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Proc_Svah\Proc_Svah\obj\Debug\net8.0\ref\Proc_Svah.dll

@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\bin\Debug\net8.0\Lode.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\bin\Debug\net8.0\Lode.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\bin\Debug\net8.0\Lode.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\bin\Debug\net8.0\Lode.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\bin\Debug\net8.0\Lode.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\Lode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\Lode.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\Lode.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\Lode.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\Lode.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\Lode.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\refint\Lode.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\Lode.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\Lode.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\07\Lode\Lode\obj\Debug\net8.0\ref\Lode.dll

@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\bin\Debug\net8.0\Enumerace.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\bin\Debug\net8.0\Enumerace.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\bin\Debug\net8.0\Enumerace.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\bin\Debug\net8.0\Enumerace.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\bin\Debug\net8.0\Enumerace.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\Enumerace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\Enumerace.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\Enumerace.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\Enumerace.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\Enumerace.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\Enumerace.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\refint\Enumerace.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\Enumerace.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\Enumerace.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enumerace\Enumerace\obj\Debug\net8.0\ref\Enumerace.dll

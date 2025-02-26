@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uvod_OOP_sam", "Uvod_OOP_sam\Uvod_OOP_sam.csproj", "{1F1E3935-AFC8-422E-8F25-1A30E8340F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1E3935-AFC8-422E-8F25-1A30E8340F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1E3935-AFC8-422E-8F25-1A30E8340F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1E3935-AFC8-422E-8F25-1A30E8340F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1E3935-AFC8-422E-8F25-1A30E8340F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7625CCF1-503A-4E75-BEA9-596227302B9E}
+	EndGlobalSection
+EndGlobal

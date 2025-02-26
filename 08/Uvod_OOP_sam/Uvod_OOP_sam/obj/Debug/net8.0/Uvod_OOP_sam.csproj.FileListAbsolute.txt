@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\bin\Debug\net8.0\Uvod_OOP_sam.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\bin\Debug\net8.0\Uvod_OOP_sam.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\bin\Debug\net8.0\Uvod_OOP_sam.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\bin\Debug\net8.0\Uvod_OOP_sam.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\bin\Debug\net8.0\Uvod_OOP_sam.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\Uvod_OOP_sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\Uvod_OOP_sam.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\Uvod_OOP_sam.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\Uvod_OOP_sam.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\Uvod_OOP_sam.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\Uvod_OOP_sam.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\refint\Uvod_OOP_sam.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\Uvod_OOP_sam.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\Uvod_OOP_sam.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_sam\Uvod_OOP_sam\obj\Debug\net8.0\ref\Uvod_OOP_sam.dll

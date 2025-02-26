@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\bin\Debug\net8.0\Uvod_OOP_zaklad.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\bin\Debug\net8.0\Uvod_OOP_zaklad.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\bin\Debug\net8.0\Uvod_OOP_zaklad.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\bin\Debug\net8.0\Uvod_OOP_zaklad.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\bin\Debug\net8.0\Uvod_OOP_zaklad.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\Uvod_OOP_zaklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\Uvod_OOP_zaklad.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\Uvod_OOP_zaklad.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\Uvod_OOP_zaklad.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\Uvod_OOP_zaklad.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\Uvod_OOP_zaklad.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\refint\Uvod_OOP_zaklad.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\Uvod_OOP_zaklad.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\Uvod_OOP_zaklad.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Uvod_OOP_zaklad\Uvod_OOP_zaklad\obj\Debug\net8.0\ref\Uvod_OOP_zaklad.dll

@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\bin\Debug\net8.0\Enum.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\bin\Debug\net8.0\Enum.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\bin\Debug\net8.0\Enum.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\bin\Debug\net8.0\Enum.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\Enum.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\refint\Enum.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\Enum.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Enum\Enum\obj\Debug\net8.0\ref\Enum.dll

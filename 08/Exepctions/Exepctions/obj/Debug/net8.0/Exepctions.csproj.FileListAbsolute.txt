@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\bin\Debug\net8.0\Exepctions.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\bin\Debug\net8.0\Exepctions.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\bin\Debug\net8.0\Exepctions.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\bin\Debug\net8.0\Exepctions.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\bin\Debug\net8.0\Exepctions.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\Exepctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\Exepctions.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\Exepctions.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\Exepctions.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\Exepctions.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\Exepctions.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\refint\Exepctions.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\Exepctions.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\Exepctions.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Exepctions\Exepctions\obj\Debug\net8.0\ref\Exepctions.dll

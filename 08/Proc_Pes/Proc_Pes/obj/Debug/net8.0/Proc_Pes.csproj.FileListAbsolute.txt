@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\bin\Debug\net8.0\Proc_Pes.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\bin\Debug\net8.0\Proc_Pes.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\bin\Debug\net8.0\Proc_Pes.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\bin\Debug\net8.0\Proc_Pes.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\bin\Debug\net8.0\Proc_Pes.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\Proc_Pes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\Proc_Pes.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\Proc_Pes.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\Proc_Pes.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\Proc_Pes.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\Proc_Pes.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\refint\Proc_Pes.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\Proc_Pes.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\Proc_Pes.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Proc_Pes\Proc_Pes\obj\Debug\net8.0\ref\Proc_Pes.dll

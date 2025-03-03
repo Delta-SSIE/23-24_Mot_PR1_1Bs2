@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\bin\Debug\net8.0\Parkoviste_poleObjektu.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\bin\Debug\net8.0\Parkoviste_poleObjektu.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\bin\Debug\net8.0\Parkoviste_poleObjektu.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\bin\Debug\net8.0\Parkoviste_poleObjektu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\bin\Debug\net8.0\Parkoviste_poleObjektu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\Parkoviste_poleObjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\Parkoviste_poleObjektu.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\Parkoviste_poleObjektu.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\Parkoviste_poleObjektu.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\Parkoviste_poleObjektu.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\Parkoviste_poleObjektu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\refint\Parkoviste_poleObjektu.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\Parkoviste_poleObjektu.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\Parkoviste_poleObjektu.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Parkoviste_poleObjektu\Parkoviste_poleObjektu\obj\Debug\net8.0\ref\Parkoviste_poleObjektu.dll

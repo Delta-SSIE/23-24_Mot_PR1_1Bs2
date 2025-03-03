@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3757BA59-4AF6-4505-BA85-1D54A9902F5F}|Parkoviste_poleObjektu\\Parkoviste_poleObjektu.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\08\\parkoviste_poleobjektu\\parkoviste_poleobjektu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3757BA59-4AF6-4505-BA85-1D54A9902F5F}|Parkoviste_poleObjektu\\Parkoviste_poleObjektu.csproj|solutionrelative:parkoviste_poleobjektu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3757BA59-4AF6-4505-BA85-1D54A9902F5F}|Parkoviste_poleObjektu\\Parkoviste_poleObjektu.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\08\\parkoviste_poleobjektu\\parkoviste_poleobjektu\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3757BA59-4AF6-4505-BA85-1D54A9902F5F}|Parkoviste_poleObjektu\\Parkoviste_poleObjektu.csproj|solutionrelative:parkoviste_poleobjektu\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Parkoviste_poleObjektu\\Parkoviste_poleObjektu\\Auto.cs",
+              "RelativeDocumentMoniker": "Parkoviste_poleObjektu\\Auto.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Parkoviste_poleObjektu\\Parkoviste_poleObjektu\\Auto.cs",
+              "RelativeToolTip": "Parkoviste_poleObjektu\\Auto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:33:23.407Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Parkoviste_poleObjektu\\Program.cs",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Parkoviste_poleObjektu\\Parkoviste_poleObjektu\\Program.cs",
               "RelativeToolTip": "Parkoviste_poleObjektu\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T07:32:45.825Z",
               "EditorCaption": ""

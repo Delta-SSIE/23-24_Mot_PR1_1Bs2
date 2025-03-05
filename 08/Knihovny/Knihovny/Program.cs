@@ -23,6 +23,7 @@
                 {
                     case 1:
                         moje_knihovna.PridejKnihu();
+                        moje_knihovna.PridejAutor();
                         break;
                     case 2:
                         Console.WriteLine("Zadej mi jméno autora");

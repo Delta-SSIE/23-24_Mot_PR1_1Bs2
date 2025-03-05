@@ -64,6 +64,31 @@ namespace Knihovny
    
         }
 
+        public void PridejAutor()
+        {
+            //Pomocná pro existenci autora
+            bool existenceAutor = false;
+
+           //Průchod pole Autori
+           for (int i = 0; i < Autori.Length; i++)
+           {
+                //kontrolujeme, jestli nová přidáná kniha nemá autora, kterého již máme zaznamenaného v poli Autori
+                if (Autori[i] == Knihy[Knihy.Length-1].AutorK)
+                {
+                    //nalezený autor, co již existuje
+                    existenceAutor = true;
+                }
+           }
+
+           if(!existenceAutor)
+            {
+                Array.Resize(ref Autori, Autori.Length + 1);
+                //Dole pole Autori jsme pridali na nový index objekt AutorK z vlastnosti poslední pridané knihy (objekt) v poli Knihy
+                Autori[Autori.Length - 1] = Knihy[Knihy.Length - 1].AutorK;
+            }
+            
+        }
+
         //Metoda na výpis knih, co mají jednoho autora
         public string VyhledejPresAutor(string jmenoA)
         {

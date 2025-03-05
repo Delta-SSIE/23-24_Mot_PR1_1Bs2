@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\bin\Debug\net8.0\Knihovny.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\bin\Debug\net8.0\Knihovny.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\bin\Debug\net8.0\Knihovny.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\bin\Debug\net8.0\Knihovny.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\bin\Debug\net8.0\Knihovny.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\Knihovny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\Knihovny.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\Knihovny.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\Knihovny.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\Knihovny.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\Knihovny.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\refint\Knihovny.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\Knihovny.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\Knihovny.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Knihovny\Knihovny\obj\Debug\net8.0\ref\Knihovny.dll

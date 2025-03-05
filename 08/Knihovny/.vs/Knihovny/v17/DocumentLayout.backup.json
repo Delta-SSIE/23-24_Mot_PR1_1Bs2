@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Knihovny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFEC10E-942B-4428-9218-4A6A705AEA4A}|Knihovny\\Knihovny.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\08\\knihovny\\knihovny\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFEC10E-942B-4428-9218-4A6A705AEA4A}|Knihovny\\Knihovny.csproj|solutionrelative:knihovny\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFEC10E-942B-4428-9218-4A6A705AEA4A}|Knihovny\\Knihovny.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\08\\knihovny\\knihovny\\kniha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFEC10E-942B-4428-9218-4A6A705AEA4A}|Knihovny\\Knihovny.csproj|solutionrelative:knihovny\\kniha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFEC10E-942B-4428-9218-4A6A705AEA4A}|Knihovny\\Knihovny.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\08\\knihovny\\knihovny\\knihovna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFEC10E-942B-4428-9218-4A6A705AEA4A}|Knihovny\\Knihovny.csproj|solutionrelative:knihovny\\knihovna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFEC10E-942B-4428-9218-4A6A705AEA4A}|Knihovny\\Knihovny.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\08\\knihovny\\knihovny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFEC10E-942B-4428-9218-4A6A705AEA4A}|Knihovny\\Knihovny.csproj|solutionrelative:knihovny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kniha.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Knihovny\\Knihovny\\Kniha.cs",
+              "RelativeDocumentMoniker": "Knihovny\\Kniha.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Knihovny\\Knihovny\\Kniha.cs",
+              "RelativeToolTip": "Knihovny\\Kniha.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:47:54.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Knihovny\\Knihovny\\Autor.cs",
+              "RelativeDocumentMoniker": "Knihovny\\Autor.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Knihovny\\Knihovny\\Autor.cs",
+              "RelativeToolTip": "Knihovny\\Autor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:14:34.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Knihovny\\Knihovny\\Program.cs",
+              "RelativeDocumentMoniker": "Knihovny\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Knihovny\\Knihovny\\Program.cs",
+              "RelativeToolTip": "Knihovny\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:14:02.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Knihovna.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Knihovny\\Knihovny\\Knihovna.cs",
+              "RelativeDocumentMoniker": "Knihovny\\Knihovna.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Knihovny\\Knihovny\\Knihovna.cs",
+              "RelativeToolTip": "Knihovny\\Knihovna.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwD0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:17:36.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

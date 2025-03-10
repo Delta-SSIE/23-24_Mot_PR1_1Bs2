@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\bin\Debug\net8.0\Zapouzdreni_Banka.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\bin\Debug\net8.0\Zapouzdreni_Banka.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\bin\Debug\net8.0\Zapouzdreni_Banka.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\bin\Debug\net8.0\Zapouzdreni_Banka.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\bin\Debug\net8.0\Zapouzdreni_Banka.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\Zapouzdreni_Banka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\Zapouzdreni_Banka.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\Zapouzdreni_Banka.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\Zapouzdreni_Banka.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\Zapouzdreni_Banka.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\Zapouzdreni_Banka.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\refint\Zapouzdreni_Banka.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\Zapouzdreni_Banka.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\Zapouzdreni_Banka.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\08\Zapouzdreni_Banka\Zapouzdreni_Banka\obj\Debug\net8.0\ref\Zapouzdreni_Banka.dll

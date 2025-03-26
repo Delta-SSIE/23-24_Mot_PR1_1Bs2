@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Vozov\u00FDPark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62459904-3BF4-4AC4-9E6F-897516704823}|Vozov\u00FDPark\\Vozov\u00FDPark.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\08\\vozov\u00FDpark\\vozov\u00FDpark\\vozidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62459904-3BF4-4AC4-9E6F-897516704823}|Vozov\u00FDPark\\Vozov\u00FDPark.csproj|solutionrelative:vozov\u00FDpark\\vozidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62459904-3BF4-4AC4-9E6F-897516704823}|Vozov\u00FDPark\\Vozov\u00FDPark.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\08\\vozov\u00FDpark\\vozov\u00FDpark\\prodejce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62459904-3BF4-4AC4-9E6F-897516704823}|Vozov\u00FDPark\\Vozov\u00FDPark.csproj|solutionrelative:vozov\u00FDpark\\prodejce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62459904-3BF4-4AC4-9E6F-897516704823}|Vozov\u00FDPark\\Vozov\u00FDPark.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\08\\vozov\u00FDpark\\vozov\u00FDpark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62459904-3BF4-4AC4-9E6F-897516704823}|Vozov\u00FDPark\\Vozov\u00FDPark.csproj|solutionrelative:vozov\u00FDpark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodejce.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Vozov\u00FDPark\\Vozov\u00FDPark\\Prodejce.cs",
+              "RelativeDocumentMoniker": "Vozov\u00FDPark\\Prodejce.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Vozov\u00FDPark\\Vozov\u00FDPark\\Prodejce.cs",
+              "RelativeToolTip": "Vozov\u00FDPark\\Prodejce.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:19:06.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vozidlo.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Vozov\u00FDPark\\Vozov\u00FDPark\\Vozidlo.cs",
+              "RelativeDocumentMoniker": "Vozov\u00FDPark\\Vozidlo.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Vozov\u00FDPark\\Vozov\u00FDPark\\Vozidlo.cs",
+              "RelativeToolTip": "Vozov\u00FDPark\\Vozidlo.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAhwE8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:08:30.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Vozov\u00FDPark\\Vozov\u00FDPark\\Program.cs",
+              "RelativeDocumentMoniker": "Vozov\u00FDPark\\Program.cs",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\08\\Vozov\u00FDPark\\Vozov\u00FDPark\\Program.cs",
+              "RelativeToolTip": "Vozov\u00FDPark\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:08:06.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

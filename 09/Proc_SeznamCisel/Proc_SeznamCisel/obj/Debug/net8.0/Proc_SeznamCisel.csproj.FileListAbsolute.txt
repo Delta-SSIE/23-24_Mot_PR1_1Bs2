@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\bin\Debug\net8.0\Proc_SeznamCisel.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\bin\Debug\net8.0\Proc_SeznamCisel.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\bin\Debug\net8.0\Proc_SeznamCisel.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\bin\Debug\net8.0\Proc_SeznamCisel.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\bin\Debug\net8.0\Proc_SeznamCisel.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\Proc_SeznamCisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\Proc_SeznamCisel.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\Proc_SeznamCisel.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\Proc_SeznamCisel.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\Proc_SeznamCisel.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\Proc_SeznamCisel.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\refint\Proc_SeznamCisel.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\Proc_SeznamCisel.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\Proc_SeznamCisel.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Proc_SeznamCisel\Proc_SeznamCisel\obj\Debug\net8.0\ref\Proc_SeznamCisel.dll

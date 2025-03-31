@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zasobnik_mat_vyraz/1.0.0": {
+        "runtime": {
+          "Zasobnik_mat_vyraz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zasobnik_mat_vyraz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

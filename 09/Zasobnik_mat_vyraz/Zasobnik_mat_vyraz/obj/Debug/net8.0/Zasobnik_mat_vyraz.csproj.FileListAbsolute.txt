@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\bin\Debug\net8.0\Zasobnik_mat_vyraz.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\bin\Debug\net8.0\Zasobnik_mat_vyraz.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\bin\Debug\net8.0\Zasobnik_mat_vyraz.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\bin\Debug\net8.0\Zasobnik_mat_vyraz.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\bin\Debug\net8.0\Zasobnik_mat_vyraz.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\Zasobnik_mat_vyraz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\Zasobnik_mat_vyraz.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\Zasobnik_mat_vyraz.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\Zasobnik_mat_vyraz.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\Zasobnik_mat_vyraz.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\Zasobnik_mat_vyraz.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\refint\Zasobnik_mat_vyraz.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\Zasobnik_mat_vyraz.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\Zasobnik_mat_vyraz.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_mat_vyraz\Zasobnik_mat_vyraz\obj\Debug\net8.0\ref\Zasobnik_mat_vyraz.dll

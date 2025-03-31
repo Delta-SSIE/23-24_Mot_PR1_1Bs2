@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\bin\Debug\net8.0\Zasobnik_Uvod.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\bin\Debug\net8.0\Zasobnik_Uvod.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\bin\Debug\net8.0\Zasobnik_Uvod.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\bin\Debug\net8.0\Zasobnik_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\bin\Debug\net8.0\Zasobnik_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\Zasobnik_Uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\Zasobnik_Uvod.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\Zasobnik_Uvod.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\Zasobnik_Uvod.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\Zasobnik_Uvod.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\Zasobnik_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\refint\Zasobnik_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\Zasobnik_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\Zasobnik_Uvod.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Zasobnik_Uvod\Zasobnik_Uvod\obj\Debug\net8.0\ref\Zasobnik_Uvod.dll

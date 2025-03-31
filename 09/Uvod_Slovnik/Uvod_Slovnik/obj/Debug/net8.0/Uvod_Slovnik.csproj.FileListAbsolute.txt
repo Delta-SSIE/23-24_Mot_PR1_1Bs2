@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\bin\Debug\net8.0\Uvod_Slovnik.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\bin\Debug\net8.0\Uvod_Slovnik.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\bin\Debug\net8.0\Uvod_Slovnik.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\bin\Debug\net8.0\Uvod_Slovnik.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\bin\Debug\net8.0\Uvod_Slovnik.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\Uvod_Slovnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\Uvod_Slovnik.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\Uvod_Slovnik.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\Uvod_Slovnik.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\Uvod_Slovnik.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\Uvod_Slovnik.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\refint\Uvod_Slovnik.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\Uvod_Slovnik.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\Uvod_Slovnik.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Uvod_Slovnik\Uvod_Slovnik\obj\Debug\net8.0\ref\Uvod_Slovnik.dll

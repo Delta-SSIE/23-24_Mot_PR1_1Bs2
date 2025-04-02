@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fronta_Uvod/1.0.0": {
+        "runtime": {
+          "Fronta_Uvod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fronta_Uvod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

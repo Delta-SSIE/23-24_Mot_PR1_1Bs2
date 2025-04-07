@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\bin\Debug\net8.0\Soubor_Cteni_Zapis.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\bin\Debug\net8.0\Soubor_Cteni_Zapis.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\bin\Debug\net8.0\Soubor_Cteni_Zapis.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\bin\Debug\net8.0\Soubor_Cteni_Zapis.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\bin\Debug\net8.0\Soubor_Cteni_Zapis.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\Soubor_Cteni_Zapis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\Soubor_Cteni_Zapis.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\Soubor_Cteni_Zapis.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\Soubor_Cteni_Zapis.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\Soubor_Cteni_Zapis.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\Soubor_Cteni_Zapis.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\refint\Soubor_Cteni_Zapis.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\Soubor_Cteni_Zapis.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\Soubor_Cteni_Zapis.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Soubor_Cteni_Zapis\Soubor_Cteni_Zapis\obj\Debug\net8.0\ref\Soubor_Cteni_Zapis.dll

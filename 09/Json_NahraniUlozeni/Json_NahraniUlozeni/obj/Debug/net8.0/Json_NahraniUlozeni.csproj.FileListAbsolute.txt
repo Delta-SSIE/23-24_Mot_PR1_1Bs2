@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\bin\Debug\net8.0\Json_NahraniUlozeni.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\bin\Debug\net8.0\Json_NahraniUlozeni.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\bin\Debug\net8.0\Json_NahraniUlozeni.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\bin\Debug\net8.0\Json_NahraniUlozeni.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\bin\Debug\net8.0\Json_NahraniUlozeni.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\Json_NahraniUlozeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\Json_NahraniUlozeni.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\Json_NahraniUlozeni.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\Json_NahraniUlozeni.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\Json_NahraniUlozeni.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\Json_NahraniUlozeni.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\refint\Json_NahraniUlozeni.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\Json_NahraniUlozeni.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\Json_NahraniUlozeni.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Json_NahraniUlozeni\Json_NahraniUlozeni\obj\Debug\net8.0\ref\Json_NahraniUlozeni.dll

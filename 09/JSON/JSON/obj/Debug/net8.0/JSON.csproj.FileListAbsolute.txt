@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\bin\Debug\net8.0\JSON.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\bin\Debug\net8.0\JSON.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\bin\Debug\net8.0\JSON.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\bin\Debug\net8.0\JSON.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\bin\Debug\net8.0\JSON.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\JSON.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\JSON.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\JSON.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\JSON.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\JSON.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\refint\JSON.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\JSON.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\JSON.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\JSON\JSON\obj\Debug\net8.0\ref\JSON.dll

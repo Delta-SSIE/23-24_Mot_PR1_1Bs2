@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\bin\Debug\net8.0\Dedicnost_Uvod.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\bin\Debug\net8.0\Dedicnost_Uvod.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\bin\Debug\net8.0\Dedicnost_Uvod.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\bin\Debug\net8.0\Dedicnost_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\bin\Debug\net8.0\Dedicnost_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\Dedicnost_Uvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\Dedicnost_Uvod.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\Dedicnost_Uvod.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\Dedicnost_Uvod.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\Dedicnost_Uvod.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\Dedicnost_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\refint\Dedicnost_Uvod.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\Dedicnost_Uvod.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\Dedicnost_Uvod.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\Dedicnost_Uvod\Dedicnost_Uvod\obj\Debug\net8.0\ref\Dedicnost_Uvod.dll

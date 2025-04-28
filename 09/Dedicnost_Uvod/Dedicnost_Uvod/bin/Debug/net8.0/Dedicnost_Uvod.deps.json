@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dedicnost_Uvod/1.0.0": {
+        "runtime": {
+          "Dedicnost_Uvod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dedicnost_Uvod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

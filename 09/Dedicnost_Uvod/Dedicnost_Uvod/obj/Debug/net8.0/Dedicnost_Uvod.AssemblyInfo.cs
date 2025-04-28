@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dedicnost_Uvod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea1042c32a61c0786ba024d5d5f7ed12ecaf9ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc96edf82e83d42d5a41f585feb6046ed435feec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dedicnost_Uvod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dedicnost_Uvod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

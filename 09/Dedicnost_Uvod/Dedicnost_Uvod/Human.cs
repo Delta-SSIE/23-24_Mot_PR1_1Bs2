@@ -12,7 +12,8 @@ namespace Dedicnost_Uvod
         public string email { get; set; }
         public int age { get; set; }
 
-        public void PredstavSe()
+        //Přidání slova virtual jsem řekl, že je možné tuto metodu alteranovat v jakékoliv dědičné třídě
+        public virtual void PredstavSe()
         {
             Console.WriteLine($"Hi, my name is {name}. This is my email {email}.");
         }

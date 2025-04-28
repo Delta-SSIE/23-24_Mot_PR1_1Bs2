@@ -21,5 +21,10 @@ namespace Dedicnost_Uvod
                 Console.WriteLine($"{i + 1}.{subjects[i]}");
             }
         }
+        //Pro objekty z třídy Teacher se metoda PredstavSe() definovaná ve třídě Human, přepíše
+        public override void PredstavSe()
+        {
+            Console.WriteLine($"Hi, my name is {name}. This is my email {email}. I am teacher and my cabinet number is {cabinet_number}.");
+        }
     }
 }

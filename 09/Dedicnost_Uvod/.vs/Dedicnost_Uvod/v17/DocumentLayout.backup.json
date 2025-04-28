@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\dedicnost_uvod\\dedicnost_uvod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|solutionrelative:dedicnost_uvod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\dedicnost_uvod\\dedicnost_uvod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|solutionrelative:dedicnost_uvod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\dedicnost_uvod\\dedicnost_uvod\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|solutionrelative:dedicnost_uvod\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\dedicnost_uvod\\dedicnost_uvod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|solutionrelative:dedicnost_uvod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\dedicnost_uvod\\dedicnost_uvod\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|solutionrelative:dedicnost_uvod\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\dedicnost_uvod\\dedicnost_uvod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C30BD92-CD3A-406C-B0F6-B725496D66D1}|Dedicnost_Uvod\\Dedicnost_Uvod.csproj|solutionrelative:dedicnost_uvod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -34,48 +34,48 @@
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\Dedicnost_Uvod\\Teacher.cs",
               "RelativeDocumentMoniker": "Dedicnost_Uvod\\Teacher.cs",
-              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\Dedicnost_Uvod\\Teacher.cs",
-              "RelativeToolTip": "Dedicnost_Uvod\\Teacher.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\Dedicnost_Uvod\\Teacher.cs*",
+              "RelativeToolTip": "Dedicnost_Uvod\\Teacher.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T06:23:46.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\Dedicnost_Uvod\\Student.cs",
               "RelativeDocumentMoniker": "Dedicnost_Uvod\\Student.cs",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\Dedicnost_Uvod\\Student.cs",
               "RelativeToolTip": "Dedicnost_Uvod\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBEAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T06:18:55.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\Dedicnost_Uvod\\Human.cs",
               "RelativeDocumentMoniker": "Dedicnost_Uvod\\Human.cs",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\Dedicnost_Uvod\\Human.cs",
               "RelativeToolTip": "Dedicnost_Uvod\\Human.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T06:15:48.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\Dedicnost_Uvod\\Program.cs",
               "RelativeDocumentMoniker": "Dedicnost_Uvod\\Program.cs",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\Dedicnost_Uvod\\Dedicnost_Uvod\\Program.cs",
               "RelativeToolTip": "Dedicnost_Uvod\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwCoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T06:11:14.656Z",
               "EditorCaption": ""

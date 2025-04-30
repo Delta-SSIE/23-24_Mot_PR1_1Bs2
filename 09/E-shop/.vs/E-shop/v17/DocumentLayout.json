@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\bin\\Debug\\net8.0\\data\\admin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-shop\\bin\\Debug\\net8.0\\data\\admin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\bin\\Debug\\net8.0\\data\\customer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-shop\\bin\\Debug\\net8.0\\data\\customer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\e-shop\\e-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|solutionrelative:e-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\e-shop\\e-shop\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|solutionrelative:e-shop\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\e-shop\\e-shop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|solutionrelative:e-shop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\e-shop\\e-shop\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|solutionrelative:e-shop\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|solutionrelative:e-shop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\e-shop\\e-shop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|solutionrelative:e-shop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\e-shop\\e-shop\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|solutionrelative:e-shop\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\e-shop\\e-shop\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|solutionrelative:e-shop\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|c:\\users\\mottja\\source\\pr1-1b-2s(2024)\\09\\e-shop\\e-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D40DEA5-D84A-46A7-BAF9-61480CF32262}|E-shop\\E-shop.csproj|solutionrelative:e-shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "customer.json",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\bin\\Debug\\net8.0\\data\\customer.json",
+              "RelativeDocumentMoniker": "E-shop\\bin\\Debug\\net8.0\\data\\customer.json",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\bin\\Debug\\net8.0\\data\\customer.json",
+              "RelativeToolTip": "E-shop\\bin\\Debug\\net8.0\\data\\customer.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T07:59:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin.json",
+              "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\bin\\Debug\\net8.0\\data\\admin.json",
+              "RelativeDocumentMoniker": "E-shop\\bin\\Debug\\net8.0\\data\\admin.json",
+              "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\bin\\Debug\\net8.0\\data\\admin.json",
+              "RelativeToolTip": "E-shop\\bin\\Debug\\net8.0\\data\\admin.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T07:59:50.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Drink.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\Drink.cs",
               "RelativeDocumentMoniker": "E-shop\\Drink.cs",
@@ -50,12 +84,11 @@
               "RelativeToolTip": "E-shop\\Drink.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T07:36:40.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T07:36:40.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\Item.cs",
               "RelativeDocumentMoniker": "E-shop\\Item.cs",
@@ -63,12 +96,11 @@
               "RelativeToolTip": "E-shop\\Item.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T07:28:45.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T07:28:45.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Food.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\Food.cs",
               "RelativeDocumentMoniker": "E-shop\\Food.cs",
@@ -81,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\User.cs",
               "RelativeDocumentMoniker": "E-shop\\User.cs",
@@ -89,12 +121,11 @@
               "RelativeToolTip": "E-shop\\User.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T07:27:15.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T07:27:15.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\Admin.cs",
               "RelativeDocumentMoniker": "E-shop\\Admin.cs",
@@ -107,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\Customer.cs",
               "RelativeDocumentMoniker": "E-shop\\Customer.cs",
@@ -120,13 +151,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\Program.cs",
               "RelativeDocumentMoniker": "E-shop\\Program.cs",
               "ToolTip": "C:\\Users\\mottja\\source\\PR1-1B-2S(2024)\\09\\E-shop\\E-shop\\Program.cs",
               "RelativeToolTip": "E-shop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T07:25:50.792Z",
               "EditorCaption": ""

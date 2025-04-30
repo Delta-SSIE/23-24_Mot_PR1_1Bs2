@@ -1,0 +1,15 @@
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\bin\Debug\net8.0\E-shop.exe
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\bin\Debug\net8.0\E-shop.deps.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\bin\Debug\net8.0\E-shop.runtimeconfig.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\bin\Debug\net8.0\E-shop.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\bin\Debug\net8.0\E-shop.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\E-shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\E-shop.AssemblyInfoInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\E-shop.AssemblyInfo.cs
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\E-shop.csproj.CoreCompileInputs.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\E-shop.sourcelink.json
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\E-shop.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\refint\E-shop.dll
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\E-shop.pdb
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\E-shop.genruntimeconfig.cache
+C:\Users\mottja\source\PR1-1B-2S(2024)\09\E-shop\E-shop\obj\Debug\net8.0\ref\E-shop.dll

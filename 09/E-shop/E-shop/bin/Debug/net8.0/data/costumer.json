@@ -1,0 +1,152 @@
+[
+    {
+      "username": "jdoe01",
+      "pass": "pass1234",
+      "email": "jdoe01@example.com"
+    },
+    {
+      "username": "asmith02",
+      "pass": "secure567",
+      "email": "asmith02@example.com"
+    },
+    {
+      "username": "mwhite03",
+      "pass": "mypass789",
+      "email": "mwhite03@example.com"
+    },
+    {
+      "username": "kjones04",
+      "pass": "abcde123",
+      "email": "kjones04@example.com"
+    },
+    {
+      "username": "bthomas05",
+      "pass": "qwerty123",
+      "email": "bthomas05@example.com"
+    },
+    {
+      "username": "rwilliams06",
+      "pass": "letmein987",
+      "email": "rwilliams06@example.com"
+    },
+    {
+      "username": "tmoore07",
+      "pass": "password07",
+      "email": "tmoore07@example.com"
+    },
+    {
+      "username": "lmartin08",
+      "pass": "admin432",
+      "email": "lmartin08@example.com"
+    },
+    {
+      "username": "cclark09",
+      "pass": "clarkpass",
+      "email": "cclark09@example.com"
+    },
+    {
+      "username": "ddavis10",
+      "pass": "dav10!pass",
+      "email": "ddavis10@example.com"
+    },
+    {
+      "username": "gking11",
+      "pass": "kingrulez",
+      "email": "gking11@example.com"
+    },
+    {
+      "username": "hyoung12",
+      "pass": "hy12key",
+      "email": "hyoung12@example.com"
+    },
+    {
+      "username": "sallen13",
+      "pass": "sallenpass",
+      "email": "sallen13@example.com"
+    },
+    {
+      "username": "pjames14",
+      "pass": "pjsecure",
+      "email": "pjames14@example.com"
+    },
+    {
+      "username": "twright15",
+      "pass": "wright15",
+      "email": "twright15@example.com"
+    },
+    {
+      "username": "rgreen16",
+      "pass": "rgreen16",
+      "email": "rgreen16@example.com"
+    },
+    {
+      "username": "nlee17",
+      "pass": "lee12345",
+      "email": "nlee17@example.com"
+    },
+    {
+      "username": "mfoster18",
+      "pass": "fosterpass",
+      "email": "mfoster18@example.com"
+    },
+    {
+      "username": "zward19",
+      "pass": "zw19secure",
+      "email": "zward19@example.com"
+    },
+    {
+      "username": "vbaker20",
+      "pass": "vbak20pw",
+      "email": "vbaker20@example.com"
+    },
+    {
+      "username": "hnelson21",
+      "pass": "hn21code",
+      "email": "hnelson21@example.com"
+    },
+    {
+      "username": "ccox22",
+      "pass": "coxpass22",
+      "email": "ccox22@example.com"
+    },
+    {
+      "username": "obell23",
+      "pass": "bellbell",
+      "email": "obell23@example.com"
+    },
+    {
+      "username": "mbarnes24",
+      "pass": "mbarnes24",
+      "email": "mbarnes24@example.com"
+    },
+    {
+      "username": "akelly25",
+      "pass": "kelly!pass",
+      "email": "akelly25@example.com"
+    },
+    {
+      "username": "scook26",
+      "pass": "cookme26",
+      "email": "scook26@example.com"
+    },
+    {
+      "username": "jward27",
+      "pass": "jwardpass",
+      "email": "jward27@example.com"
+    },
+    {
+      "username": "llong28",
+      "pass": "long28@pw",
+      "email": "llong28@example.com"
+    },
+    {
+      "username": "rreed29",
+      "pass": "rreed29pass",
+      "email": "rreed29@example.com"
+    },
+    {
+      "username": "dwells30",
+      "pass": "dw30pass",
+      "email": "dwells30@example.com"
+    }
+  ]

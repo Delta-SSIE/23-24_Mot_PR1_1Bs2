@@ -1,0 +1,77 @@
+[
+    {
+      "name": "Water Bottle",
+      "price": 56,
+      "milliliters": 500
+    },
+    {
+      "name": "Orange Juice",
+      "price": 42,
+      "milliliters": 300
+    },
+    {
+      "name": "Apple Juice",
+      "price": 38,
+      "milliliters": 250
+    },
+    {
+      "name": "Cola",
+      "price": 55,
+      "milliliters": 500
+    },
+    {
+      "name": "Lemonade",
+      "price": 40,
+      "milliliters": 400
+    },
+    {
+      "name": "Green Tea",
+      "price": 25,
+      "milliliters": 350
+    },
+    {
+      "name": "Black Tea",
+      "price": 30,
+      "milliliters": 250
+    },
+    {
+      "name": "Coffee",
+      "price": 45,
+      "milliliters": 200
+    },
+    {
+      "name": "Energy Drink",
+      "price": 70,
+      "milliliters": 500
+    },
+    {
+      "name": "Milkshake",
+      "price": 65,
+      "milliliters": 600
+    },
+    {
+      "name": "Smoothie",
+      "price": 80,
+      "milliliters": 500
+    },
+    {
+      "name": "Sparkling Water",
+      "price": 28,
+      "milliliters": 500
+    },
+    {
+      "name": "Iced Tea",
+      "price": 35,
+      "milliliters": 400
+    },
+    {
+      "name": "Coconut Water",
+      "price": 50,
+      "milliliters": 400
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 60,
+      "milliliters": 250
+    }
+  ]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Apple",
+    "price": 96,
+    "weight": 309
+  },
+  {
+    "name": "Banana",
+    "price": 35,
+    "weight": 266
+  },
+  {
+    "name": "Carrot",
+    "price": 40,
+    "weight": 449
+  },
+  {
+    "name": "Potato",
+    "price": 14,
+    "weight": 985
+  },
+  {
+    "name": "Tomato",
+    "price": 43,
+    "weight": 453
+  },
+  {
+    "name": "Chicken Breast",
+    "price": 43,
+    "weight": 656
+  },
+  {
+    "name": "Beef Steak",
+    "price": 66,
+    "weight": 126
+  },
+  {
+    "name": "Salmon Fillet",
+    "price": 10,
+    "weight": 532
+  },
+  {
+    "name": "Bread",
+    "price": 45,
+    "weight": 488
+  },
+  {
+    "name": "Cheese",
+    "price": 18,
+    "weight": 231
+  },
+  {
+    "name": "Milk",
+    "price": 40,
+    "weight": 673
+  },
+  {
+    "name": "Yogurt",
+    "price": 89,
+    "weight": 401
+  },
+  {
+    "name": "Rice",
+    "price": 53,
+    "weight": 142
+  },
+  {
+    "name": "Pasta",
+    "price": 77,
+    "weight": 693
+  },
+  {
+    "name": "Eggs",
+    "price": 73,
+    "weight": 834
+  }
+]

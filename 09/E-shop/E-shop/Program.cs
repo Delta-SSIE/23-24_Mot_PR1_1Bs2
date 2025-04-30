@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Data;
 using System.Text.Json;
 
 namespace E_shop
@@ -19,7 +20,68 @@ namespace E_shop
 
             //Logování do systému
             User prihlaseny_uzivatel = LogIn(users);
-            Console.WriteLine("LOG");
+            
+            //Hlavní smyčka programu (menu)
+            while(true)
+            {
+                Console.WriteLine($"Přihlášen:");
+                prihlaseny_uzivatel.DisplayInfo(); 
+                if(prihlaseny_uzivatel.type == "customer") //customer
+                {
+                    Console.Clear();
+                    Console.WriteLine($"1. pro výpis zboží v eshopu\n 2.Vytvořit objednávku");
+                    int volba = int.Parse(Console.ReadLine());
+                    int indexzbozi = 0;
+                    switch (volba)
+                    {
+                        case 1:
+                            foreach(Item zbozi in items)
+                            {
+                                zbozi.DisplayInfo();
+                            }
+                            break;
+                        case 2:
+                            Order objednavka = new Order(prihlaseny_uzivatel);
+                            do
+                            {
+                                Console.Clear();
+                                for (int i = 0; i < items.Count; i++)
+                                {
+                                    Console.Write($"{i + 1}.");
+                                    items[i].DisplayInfo();
+                                }
+                                Console.WriteLine("Zadej index zboží, co chceš přidat do objednávky, pokud budeš chtít zadávání ukončit zadej 0");
+                                indexzbozi = int.Parse(Console.ReadLine());
+                                if (indexzbozi != 0)
+                                {
+                                    objednavka.items.Add(items[indexzbozi - 1]);
+                                    objednavka.total_price += items[indexzbozi - 1].price;
+                                }
+
+                            } while (indexzbozi != 0);
+                            //Přidání objednávky do listu všech objednávek
+                            break;
+
+
+
+                    }
+
+                } else // admin
+                {
+                    Console.WriteLine($"1. pro výpis zboží v eshopu\n");
+                    int volba = int.Parse(Console.ReadLine());
+                    switch (volba)
+                    {
+                        case 1:
+                            foreach (Item zbozi in items)
+                            {
+                                zbozi.DisplayInfo();
+                            }
+                            break;
+
+                    }
+                }
+            }
         }
 
 
